@@ -1,0 +1,7 @@
+{
+  "subcarrier_idx": 20,
+  "amp_mean": 23.97,
+  "amp_std": 5.02,
+  "noise_floor": 39.02,
+  "n_samples": 62
+}
